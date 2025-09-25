@@ -1,0 +1,1 @@
+local SimplicityLibrary = loadstring(game:HttpGet("https://pastebin.com/XJXiH5db"))()
